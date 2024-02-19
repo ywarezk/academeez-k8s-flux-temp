@@ -1,0 +1,5 @@
+
+
+- op: add
+  path: /metadata/annotations/iam.gke.io~1gcp-service-account
+  value: "source-controller@prj-academeez.iam.gserviceaccount.com"
